@@ -1,0 +1,8 @@
+{
+  "name": "食事管理（開発版）",
+  "short_name": "食事管理β",
+  "start_url": "/meal-tracker-v617/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea"
+}
